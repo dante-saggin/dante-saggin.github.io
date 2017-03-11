@@ -113,4 +113,4 @@ function convertPlaceToGeoLocation(item) {
         geoLocation.push(data.results[0].geometry.location);
     });
 
-}
+};
